@@ -1,0 +1,9 @@
+body{
+    background: url('/home/jacob/Documents/orientalwallpaper.jpeg')
+    background-repeat: no-repeat;
+}
+
+img{
+    width: 600px;
+    height: 600px;
+}
